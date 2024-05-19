@@ -18,6 +18,8 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".ts", ".tsx"] }],
     "react/jsx-props-no-spreading": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "react/function-component-definition": "off",
+    "react/jsx-no-useless-fragment": "off"
   }
 }
